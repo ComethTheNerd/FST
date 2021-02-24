@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FSTMovie.init(from:):FSTApp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p != &quot;N/A&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FSTPlaylistListDataProvider.add(movies:to:):FSTApp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MergeMovieLists(target.movies, movies)">
+            </PersistentString>
+            <PersistentString
+               value = "combinedMovies.count">
+            </PersistentString>
+            <PersistentString
+               value = "combinedMovies.count - target.movies.count">
+            </PersistentString>
+            <PersistentString
+               value = "target.movies.count">
+            </PersistentString>
+            <PersistentString
+               value = " self.playlists">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
