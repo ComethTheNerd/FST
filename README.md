@@ -1,6 +1,6 @@
 # Overview 
 
-Simple movie search example in SwiftUI, leveraging data from the OMDB API.
+Simple 5 hour timeboxed implementation of a movie search app in SwiftUI, leveraging data from the OMDB API.
 
 ## Demo 
 Click the thumbnail below to watch the [video](https://youtu.be/w3DsBtmwl0g).
